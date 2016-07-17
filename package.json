@@ -1,0 +1,22 @@
+{
+  "name": "retry-unless",
+  "version": "1.0.0",
+  "description": "Retry an async function unless some condition is met",
+  "main": "index.js",
+  "scripts": {
+    "test": "t1.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/peebles/retry-unless.git"
+  },
+  "keywords": [
+    "retry",
+    "backoff"
+  ],
+  "author": "Andrew Peebles",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.0.0"
+  }
+}
